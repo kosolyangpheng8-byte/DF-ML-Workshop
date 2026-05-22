@@ -3,7 +3,7 @@ pandas
 matplotlib
 numpy
 seaborn
-
 scikit-learm
 joblib
 plotly
+
