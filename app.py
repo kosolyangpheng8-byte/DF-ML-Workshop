@@ -12,8 +12,8 @@ st.write("##### Day 1: การจัดการข้อมูลพื้น
 if st.button("💰 ระบบคำนวณส่วนลดตามยอดซื้อ"):
     st.switch_page("pages/clean_app.py")
     
-elif st.button("💰 ระบบคำนวณ"):
+elif st.button("💰 การทำความสะอาดข้อมูล"):
     st.switch_page("pages/clean_bbb.py")
     
-elif st.button("💰 ระบบ Customers "):
+elif st.button("💰 Clean Customers "):
     st.switch_page("pages/clean_customers.py")
