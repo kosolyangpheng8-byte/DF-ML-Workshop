@@ -14,4 +14,4 @@ elif st.button("💰 ระบบคำนวณ"):
     st.switch_page("pages/clean_bbb.py")
     
 elif st.button("💰 ระบบ Customers "):
-    st.switch_page("pages/clean_customers.py
+    st.switch_page("pages/clean_customers.py")
