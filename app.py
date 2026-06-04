@@ -27,7 +27,8 @@ elif st.button("💰 การแปลงข้อมูล"):
 elif st.button("💰 การพยากรณ์ยอดขายแบบง่าย"):
     st.switch_page("pages/transform_app.py")
 
-
+elif st.button("💰 การพยากรณ์ระยะเวลาการให้บริการขนส่ง"):
+    st.switch_page("pages/transform_app.py")
 
 
 
