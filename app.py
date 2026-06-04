@@ -20,3 +20,20 @@ elif st.button("💰 Clean Customers "):
     
 elif st.button("💰 การแปลงข้อมูล"):
     st.switch_page("pages/transform_app.py")
+
+elif st.button("💰 การพยากรณ์ยอดขายแบบง่าย"):
+    st.switch_page("pages/transform_app.py")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
