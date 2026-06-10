@@ -31,7 +31,7 @@ elif st.button("💰 การพยากรณ์ระยะเวลาก�
     st.switch_page("pages/transform_app.py")
     
 elif st.button("💰 จัดกลุ่มข้อมูล"):
-    st.switch_page("pages/Clustering_segment_app.py")
+    st.switch_page("pages/Clustering_segment.py")
 
 
 
