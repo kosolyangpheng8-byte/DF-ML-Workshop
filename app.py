@@ -36,7 +36,8 @@ elif st.button("💰 จัดกลุ่มข้อมูล"):
 elif st.button("💰 ระบบแนะนำสินค้าจาก Market Basket Analysis"):
     st.switch_page("pages/association_items.py")
 
-
+elif st.button("💰 Behavioral Association Recommendation"):
+    st.switch_page("pages/association_recommend.py")
 
 
 
