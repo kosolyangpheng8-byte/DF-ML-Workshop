@@ -32,7 +32,8 @@ elif st.button("💰 การพยากรณ์ระยะเวลาก�
     
 elif st.button("💰 จัดกลุ่มข้อมูล"):
     st.switch_page("pages/Clustering_segment.py")
-
+elif st.button("💰 ระบบแนะนำสินค้าจาก Market Basket Analysis"):
+    st.switch_page("pages/association_items.py")
 
 
 
